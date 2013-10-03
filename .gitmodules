@@ -1,0 +1,3 @@
+[submodule "ArenaKings/ArenaKings/ThirdParty/AFNetworking"]
+	path = ArenaKings/ArenaKings/ThirdParty/AFNetworking
+	url = git@github.com:AFNetworking/AFNetworking.git
